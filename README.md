@@ -1,7 +1,6 @@
-<h1 align="center">hi Content Management Tool</h1>
-<h3 align="center">A **Content Management Tool** is a platform used to efficiently manage website content.
-In a small project, such a tool allows users to write a summary, upload images and videos, and publish them on the website.</h3>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Content Management Tool</h1>
+- A Content Management Tool is a platform used to efficiently manage website content.
+In a small project, such a tool allows users to write a summary, upload images and videos, and publish them on the website.
 <p align="left">
 </p>
 
